@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Task2Author24\Task2Author24\bin\Debug\Task2Author24.exe.config
+C:\Users\User\source\repos\Task2Author24\Task2Author24\bin\Debug\Task2Author24.exe
+C:\Users\User\source\repos\Task2Author24\Task2Author24\bin\Debug\Task2Author24.pdb
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.Form1.resources
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.Properties.Resources.resources
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.exe
+C:\Users\User\source\repos\Task2Author24\Task2Author24\obj\Debug\Task2Author24.pdb
